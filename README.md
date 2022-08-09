@@ -1,24 +1,25 @@
-<div align='center'>
-  <br>
-  <h1>Food Delivery</h1>
+<div align="center">
+	<br>
+	<h1>Food Delivery</h1>
 </div>
 
 <!-- PROJECT SHIELDS -->
-<div align='center'>
+<div align="center">
 
-  <a href="">![GitHub last commit](https://img.shields.io/github/last-commit/RadyaBen/Food-Delivery?style=plastic)</a>
-  <a href="">![GitHub repo size](https://img.shields.io/github/repo-size/RadyaBen/Food-Delivery?style=plastic)</a>
-  <a href="">![GitHub language count](https://img.shields.io/github/languages/count/RadyaBen/Food-Delivery?style=plastic)</a>
-  <a href="">![GitHub top language](https://img.shields.io/github/languages/top/RadyaBen/Food-Delivery?style=plastic)</a>
+   ![GitHub last commit](https://img.shields.io/github/last-commit/RadyaBen/Food-Delivery?style=plastic)
+   ![GitHub repo size](https://img.shields.io/github/repo-size/RadyaBen/Food-Delivery?style=plastic)
+   ![GitHub language count](https://img.shields.io/github/languages/count/RadyaBen/Food-Delivery?style=plastic)
+   ![GitHub top language](https://img.shields.io/github/languages/top/RadyaBen/Food-Delivery?style=plastic)
 
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Food Delivery is a one-page healthy food ordering website. On this site, a user can get acquainted with the menu and learn more about each of the food styles. One feature of this site is that it allows them to calculate the number of calories in a meal. There is also an ability to contact users to clarify the order. Menu data and user requests are stored on a local JSON server. In case of any changes by a user, the server reloads itself and the changes are automatically saved to a local JSON file. 
-
-Its main goal is to learn how to work with vanilla JavaScript and the module builder.
+* Food Delivery is a one-page healthy food ordering website. On this site, a user can get acquainted with the menu and learn more about each of the food styles. 
+* One feature of this site is that it allows them to calculate the number of calories in a meal. There is also an ability to contact users to clarify the order. 
+* Menu data and user requests are stored on a local JSON server. In case of any changes by a user, the server reloads itself and the changes are automatically saved to a local JSON file. 
+* Its main goal is to learn how to work with vanilla JavaScript and the module builder.
 
 ## Built With
 
